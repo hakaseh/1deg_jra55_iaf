@@ -18,14 +18,11 @@ ACCESS-OM2-BGC
 # yearly bgc fields for omip2
 
 "ocean_model","adic","adic_abio",   "ocean_bgc_ann","all",.true.,"none",2
-"ocean_model","dic","dic_abio", "ocean_bgc_ann","all",.true.,"none",2
-"ocean_model","alk","alk_abio",      "ocean_bgc_ann","all",.true.,"none",2
 "ocean_model","o2","o2_abio",         "ocean_bgc_ann","all",.true.,"none",2
 "ocean_model","no3","no3_abio",       "ocean_bgc_ann","all",.true.,"none",2
 "ocean_model","fe","fe_abio",        "ocean_bgc_ann","all",.true.,"none",2
 "ocean_model","stf09","stf09_abio",   "ocean_bgc_ann","all",.true.,"none",2
 "ocean_model","stf07","stf07_abio","ocean_bgc_ann","all",.true.,"none",2
-"ocean_model","caco3","caco3_abio", "ocean_bgc_ann","all",.true.,"none",2
 
 # monthly bgc fields for omip2
 
