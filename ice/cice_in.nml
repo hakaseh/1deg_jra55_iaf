@@ -9,7 +9,7 @@
     dumpfreq          = 'y'
     dumpfreq_n        = 1
     hist_avg          = .true.
-    histfreq          = 'd', 'm', 'x', 'x', 'x'
+    histfreq          = 'd', 'x', 'x', 'x', 'x'
     histfreq_n        = 1, 1, 1, 1, 1
     history_chunksize_x = 180
     history_chunksize_y = 150
@@ -68,7 +68,7 @@
     restart_pond_topo = .false.
     tr_aero           = .false.
     tr_fy             = .false.
-    tr_iage           = .true.
+    tr_iage           = .false.
     tr_lvl            = .false.
     tr_pond_cesm      = .false.
     tr_pond_lvl       = .false.
@@ -241,8 +241,8 @@
     f_hs              = 'd'
     f_hte             = .false.
     f_htn             = .false.
-    f_iage            = 'm'
-    f_icepresent      = 'm'
+    f_iage            = 'x'
+    f_icepresent      = 'x'
     f_meltb           = 'x'
     f_meltl           = 'x'
     f_melts           = 'x'
@@ -260,7 +260,7 @@
     f_snoice          = 'x'
     f_snow            = 'x'
     f_snow_ai         = 'x'
-    f_sss             = 'd'
+    f_sss             = 'x'
     f_sst             = 'x'
     f_strairx         = 'x'
     f_strairy         = 'x'
