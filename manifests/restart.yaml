@@ -1,3 +1,224 @@
 format: yamanifest
 version: 1.0
---- {}
+---
+work/accessom2_restart.nml:
+  fullpath: /scratch/v45/hh0162/access-om2-iamip2/archive/1deg_jra55_iaf_iamip2_exc/restart056/accessom2_restart.nml
+  hashes:
+    binhash: a36e766421124fe5ffcca5583c51bf60
+    md5: ae4a61a1c621015812db69f7afa8b9ad
+work/ice/RESTART/bgc_param.nc:
+  copy: true
+  fullpath: /scratch/v45/hh0162/access-om2-iamip2/archive/1deg_jra55_iaf_iamip2_exc/restart056/ice/bgc_param.nc
+  hashes:
+    binhash: 030d4d410987298fe91f4e9eaae95222
+    md5: 9f55f5b4cb38960f394044eb6e2157dc
+work/ice/RESTART/cfc_auscom.nc:
+  copy: true
+  fullpath: /scratch/v45/hh0162/access-om2-iamip2/archive/1deg_jra55_iaf_iamip2_exc/restart056/ice/cfc_auscom.nc
+  hashes:
+    binhash: 08a91d2466dd80431aec941314ee1a68
+    md5: 38660c8a5de3e3b63d2ae7ba5020d515
+work/ice/RESTART/co2_obs.nc:
+  copy: true
+  fullpath: /scratch/v45/hh0162/access-om2-iamip2/archive/1deg_jra55_iaf_iamip2_exc/restart056/ice/co2_obs.nc
+  hashes:
+    binhash: 838fd55a5fcccd53748b6cf588db9a8e
+    md5: 9958ce02abada0533a964b071dd3c26a
+work/ice/RESTART/co2_obs_iamip2_con.nc:
+  copy: true
+  fullpath: /scratch/v45/hh0162/access-om2-iamip2/archive/1deg_jra55_iaf_iamip2_exc/restart056/ice/co2_obs_iamip2_con.nc
+  hashes:
+    binhash: 86fb305133c3fd761ff3c760a26a047b
+    md5: c88331a9b62e6f4f8c029fd62e521251
+work/ice/RESTART/co2_obs_omip2_1-3.nc:
+  copy: true
+  fullpath: /scratch/v45/hh0162/access-om2-iamip2/archive/1deg_jra55_iaf_iamip2_exc/restart056/ice/co2_obs_omip2_1-3.nc
+  hashes:
+    binhash: 7cd6fbddf2ea7729e614e7155b45cb01
+    md5: a956460457c79590f018cad4efa4de3f
+work/ice/RESTART/csiro_bgc.res.nc:
+  copy: true
+  fullpath: /scratch/v45/hh0162/access-om2-iamip2/archive/1deg_jra55_iaf_iamip2_exc/restart056/ice/csiro_bgc.res.nc
+  hashes:
+    binhash: 8d462dd9eae154209cbaba7067290b12
+    md5: a65da5e0413aa774c62cf596e8bd7271
+work/ice/RESTART/csiro_bgc_sediment.res.nc:
+  copy: true
+  fullpath: /scratch/v45/hh0162/access-om2-iamip2/archive/1deg_jra55_iaf_iamip2_exc/restart056/ice/csiro_bgc_sediment.res.nc
+  hashes:
+    binhash: 34405d3156248c2cad94ccfd309d7268
+    md5: 47d3157c3fe17c8e3581350295c1413c
+work/ice/RESTART/dust_om2.nc:
+  copy: true
+  fullpath: /scratch/v45/hh0162/access-om2-iamip2/archive/1deg_jra55_iaf_iamip2_exc/restart056/ice/dust_om2.nc
+  hashes:
+    binhash: 52cfdbfb6e7c82adef66c9b446cf0f41
+    md5: e16438a05c180e8709d21ff880192b03
+work/ice/RESTART/grid.nc:
+  copy: true
+  fullpath: /scratch/v45/hh0162/access-om2-iamip2/archive/1deg_jra55_iaf_iamip2_exc/restart056/ice/grid.nc
+  hashes:
+    binhash: 12ab0395117ea181ace63c353f89e7da
+    md5: 1213e346055ee073fe33dc12578d99c6
+work/ice/RESTART/i2o.nc:
+  copy: true
+  fullpath: /scratch/v45/hh0162/access-om2-iamip2/archive/1deg_jra55_iaf_iamip2_exc/restart056/ice/i2o.nc
+  hashes:
+    binhash: b05264aa951dffeedc936598a485aa99
+    md5: 2679ad6762f83e43d7353e05d7ba0855
+work/ice/RESTART/ice.restart_file:
+  copy: true
+  fullpath: /scratch/v45/hh0162/access-om2-iamip2/archive/1deg_jra55_iaf_iamip2_exc/restart056/ice/ice.restart_file
+  hashes:
+    binhash: 5f71ac87f139a1bea9936205f72cdf0a
+    md5: b8d4e855bce0e96061520ca5eb3fe1fa
+work/ice/RESTART/iced.2015-01-01-00000.nc:
+  copy: true
+  fullpath: /scratch/v45/hh0162/access-om2-iamip2/archive/1deg_jra55_iaf_iamip2_exc/restart056/ice/iced.2015-01-01-00000.nc
+  hashes:
+    binhash: 363706b0fb3c01c2b4b6f82bddabadb8
+    md5: b6003acae34f6b2e6574dd2b47c04596
+work/ice/RESTART/kmt.nc:
+  copy: true
+  fullpath: /scratch/v45/hh0162/access-om2-iamip2/archive/1deg_jra55_iaf_iamip2_exc/restart056/ice/kmt.nc
+  hashes:
+    binhash: 1c3c4992a3c97fa812c6350e2d98ce72
+    md5: 1f9806c646a620378e5257e480bc9df7
+work/ice/RESTART/monthly_sstsss.nc:
+  copy: true
+  fullpath: /scratch/v45/hh0162/access-om2-iamip2/archive/1deg_jra55_iaf_iamip2_exc/restart056/ice/monthly_sstsss.nc
+  hashes:
+    binhash: 518ec588ef172ea6930b4a8a2340a0ab
+    md5: 323d4c605f83f4d7d3126da70153c2ed
+work/ice/RESTART/o2i.nc:
+  copy: true
+  fullpath: /scratch/v45/hh0162/access-om2-iamip2/archive/1deg_jra55_iaf_iamip2_exc/restart056/ice/o2i.nc
+  hashes:
+    binhash: 8fb8265a50e360ef28efa6b2d9a4e7e3
+    md5: 8ced88e71158c8f71c5896b8ba4972d9
+work/ice/RESTART/ocmip2_fice_monthly_om1p5_bc.nc:
+  copy: true
+  fullpath: /scratch/v45/hh0162/access-om2-iamip2/archive/1deg_jra55_iaf_iamip2_exc/restart056/ice/ocmip2_fice_monthly_om1p5_bc.nc
+  hashes:
+    binhash: 68f50c7a131053fd113578693e3a2369
+    md5: c0ed75eef44962dbe6fc9f61dbd228a9
+work/ice/RESTART/ocmip2_press_monthly_om2.nc:
+  copy: true
+  fullpath: /scratch/v45/hh0162/access-om2-iamip2/archive/1deg_jra55_iaf_iamip2_exc/restart056/ice/ocmip2_press_monthly_om2.nc
+  hashes:
+    binhash: d59026f8aa1264d785469b3ca9861b5c
+    md5: fd7f6e66d09d9f6f87732290f0131b9d
+work/ice/RESTART/ocmip2_xkw_monthly_om1p5_bc.nc:
+  copy: true
+  fullpath: /scratch/v45/hh0162/access-om2-iamip2/archive/1deg_jra55_iaf_iamip2_exc/restart056/ice/ocmip2_xkw_monthly_om1p5_bc.nc
+  hashes:
+    binhash: d157a5b8f5a8cfa9d33740f661a41256
+    md5: 348a035bed83e280bb0a1de0066947fc
+work/ice/RESTART/ocmip2_xkw_monthly_om2.nc:
+  copy: true
+  fullpath: /scratch/v45/hh0162/access-om2-iamip2/archive/1deg_jra55_iaf_iamip2_exc/restart056/ice/ocmip2_xkw_monthly_om2.nc
+  hashes:
+    binhash: 5c2411b6a1cd6b31883fa0e19059c352
+    md5: fd87b17f01689105414865748f97b41b
+work/ice/RESTART/sicemass.nc:
+  copy: true
+  fullpath: /scratch/v45/hh0162/access-om2-iamip2/archive/1deg_jra55_iaf_iamip2_exc/restart056/ice/sicemass.nc
+  hashes:
+    binhash: 9f26802bbf2a32e4af5fab7d916264f0
+    md5: fd9edc7aa1f981a35f241393df510d2c
+work/ice/RESTART/u_star.nc:
+  copy: true
+  fullpath: /scratch/v45/hh0162/access-om2-iamip2/archive/1deg_jra55_iaf_iamip2_exc/restart056/ice/u_star.nc
+  hashes:
+    binhash: 72a2af1cf9d627787e0ceebcc73ea9eb
+    md5: 0173a2c6ec575cad4ed0f92804943bf4
+work/ocean/INPUT/csiro_bgc.res.nc:
+  fullpath: /scratch/v45/hh0162/access-om2-iamip2/archive/1deg_jra55_iaf_iamip2_exc/restart056/ocean/csiro_bgc.res.nc
+  hashes:
+    binhash: 7e9a3930fd548587aeb88eaa758ea4f9
+    md5: bd9a01194b2f97c69f8690aeaafeb275
+work/ocean/INPUT/csiro_bgc_sediment.res.nc:
+  fullpath: /scratch/v45/hh0162/access-om2-iamip2/archive/1deg_jra55_iaf_iamip2_exc/restart056/ocean/csiro_bgc_sediment.res.nc
+  hashes:
+    binhash: 982bd59705f58fca572d0b138b9d08c2
+    md5: 1f47434537b88898004eb63e86abefe0
+work/ocean/INPUT/ocean_age.res.nc:
+  fullpath: /scratch/v45/hh0162/access-om2-iamip2/archive/1deg_jra55_iaf_iamip2_exc/restart056/ocean/ocean_age.res.nc
+  hashes:
+    binhash: 641d0d53905b3b7158f71ef32924ae25
+    md5: 7aa213be9353f2ac92ac5dd97f0c86cb
+work/ocean/INPUT/ocean_barotropic.res.nc:
+  fullpath: /scratch/v45/hh0162/access-om2-iamip2/archive/1deg_jra55_iaf_iamip2_exc/restart056/ocean/ocean_barotropic.res.nc
+  hashes:
+    binhash: 0371d59ec354e56e903409d1bbbb0338
+    md5: 4057886ca9405e891a4c40b480914b6b
+work/ocean/INPUT/ocean_bih_friction.res.nc:
+  fullpath: /scratch/v45/hh0162/access-om2-iamip2/archive/1deg_jra55_iaf_iamip2_exc/restart056/ocean/ocean_bih_friction.res.nc
+  hashes:
+    binhash: 9f308015f3ab9391395118bb54fb7bc1
+    md5: f1b7f2287e8d3b7325c860520ff75d00
+work/ocean/INPUT/ocean_density.res.nc:
+  fullpath: /scratch/v45/hh0162/access-om2-iamip2/archive/1deg_jra55_iaf_iamip2_exc/restart056/ocean/ocean_density.res.nc
+  hashes:
+    binhash: 5c0649ab10a5788d5913a9c989d68312
+    md5: 2c79f4a21e8866ddf3246e6a5ecf09f5
+work/ocean/INPUT/ocean_frazil.res.nc:
+  fullpath: /scratch/v45/hh0162/access-om2-iamip2/archive/1deg_jra55_iaf_iamip2_exc/restart056/ocean/ocean_frazil.res.nc
+  hashes:
+    binhash: 9425573cf8d319daae8508762337d1d8
+    md5: 2fc012d2e1f1f198f24df203dcfb1804
+work/ocean/INPUT/ocean_lap_friction.res.nc:
+  fullpath: /scratch/v45/hh0162/access-om2-iamip2/archive/1deg_jra55_iaf_iamip2_exc/restart056/ocean/ocean_lap_friction.res.nc
+  hashes:
+    binhash: 4ffc5514132d0498597cede66ab6e3b3
+    md5: 2abe7552c5e9359a8a6bfe26195b1d5b
+work/ocean/INPUT/ocean_neutral.res.nc:
+  fullpath: /scratch/v45/hh0162/access-om2-iamip2/archive/1deg_jra55_iaf_iamip2_exc/restart056/ocean/ocean_neutral.res.nc
+  hashes:
+    binhash: 8f0f5a0863832e30d60be1986369bf72
+    md5: 7a1a927b0201de433f03ecf85d1195e3
+work/ocean/INPUT/ocean_pot_temp.res.nc:
+  fullpath: /scratch/v45/hh0162/access-om2-iamip2/archive/1deg_jra55_iaf_iamip2_exc/restart056/ocean/ocean_pot_temp.res.nc
+  hashes:
+    binhash: 14b8797a127959ac3956cedbc1b2c727
+    md5: ce1a8d30bcf0b2e620964b3c359b25b2
+work/ocean/INPUT/ocean_sbc.res.nc:
+  fullpath: /scratch/v45/hh0162/access-om2-iamip2/archive/1deg_jra55_iaf_iamip2_exc/restart056/ocean/ocean_sbc.res.nc
+  hashes:
+    binhash: 7ea99be20b4e376fcd481eb834d0596c
+    md5: 991e5473d20897a42705339120e78727
+work/ocean/INPUT/ocean_sigma_transport.res.nc:
+  fullpath: /scratch/v45/hh0162/access-om2-iamip2/archive/1deg_jra55_iaf_iamip2_exc/restart056/ocean/ocean_sigma_transport.res.nc
+  hashes:
+    binhash: 7a3b471c65c87308b3fa77152a62bf0e
+    md5: 261c0f21c5c77e6bdee74ee2d8deb68e
+work/ocean/INPUT/ocean_solo.res:
+  fullpath: /scratch/v45/hh0162/access-om2-iamip2/archive/1deg_jra55_iaf_iamip2_exc/restart056/ocean/ocean_solo.res
+  hashes:
+    binhash: 84fe7770440c9f9779fd2cd05635abc6
+    md5: fec4cd5d8152c9043e72c098fe3cfc99
+work/ocean/INPUT/ocean_temp_salt.res.nc:
+  fullpath: /scratch/v45/hh0162/access-om2-iamip2/archive/1deg_jra55_iaf_iamip2_exc/restart056/ocean/ocean_temp_salt.res.nc
+  hashes:
+    binhash: 056f9355972d35d1b0894b5accf20707
+    md5: 6bd5894881058190c819aa39af84c84c
+work/ocean/INPUT/ocean_thickness.res.nc:
+  fullpath: /scratch/v45/hh0162/access-om2-iamip2/archive/1deg_jra55_iaf_iamip2_exc/restart056/ocean/ocean_thickness.res.nc
+  hashes:
+    binhash: ea8b8bec30d47748523023160f5eabd1
+    md5: d72b2efcb2c981977194fcc26c0b2acf
+work/ocean/INPUT/ocean_tracer.res:
+  fullpath: /scratch/v45/hh0162/access-om2-iamip2/archive/1deg_jra55_iaf_iamip2_exc/restart056/ocean/ocean_tracer.res
+  hashes:
+    binhash: df4a5c7d01a672ed5d4af8aee1e5a745
+    md5: 9c569a7e87eefe0046fdb52223c356e0
+work/ocean/INPUT/ocean_velocity.res.nc:
+  fullpath: /scratch/v45/hh0162/access-om2-iamip2/archive/1deg_jra55_iaf_iamip2_exc/restart056/ocean/ocean_velocity.res.nc
+  hashes:
+    binhash: 69abad9896c3b90a02735ab0714cfdad
+    md5: 510c770a0abef37648191ea8f76a6dec
+work/ocean/INPUT/ocean_velocity_advection.res.nc:
+  fullpath: /scratch/v45/hh0162/access-om2-iamip2/archive/1deg_jra55_iaf_iamip2_exc/restart056/ocean/ocean_velocity_advection.res.nc
+  hashes:
+    binhash: 4bb817e1458554853aab6467785e9ca0
+    md5: e5f7f7c9a313a74945a851a2762dd683

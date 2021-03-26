@@ -60,15 +60,3 @@ elon = 360.0
 "rayleigh","Torres","itable=62,jtable=108,ktable_1=1,ktable_2=50,rayleigh_damp_table=5400"
 "rayleigh","Torres","itable=62,jtable=109,ktable_1=1,ktable_2=50,rayleigh_damp_table=5400"/
 
-"tracer_packages","ocean_mod","csiro_bgc"
-
-names = _
-horizontal-advection-scheme = mdfl_sweby
-vertical-advection-scheme = mdfl_sweby
-restart_file  = csiro_bgc.res.nc
-min_tracer_limit=-1e6
-max_tracer_limit=1e6
-min_range=-1e6
-max_range=1e6
-/
-
