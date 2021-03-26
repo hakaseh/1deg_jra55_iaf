@@ -9,8 +9,8 @@
 # shortpath: /scratch/v45
 
 queue: normal
-walltime: 0:05:00
-jobname: projection
+walltime: 0:03:00
+jobname: exclusion
 mem: 1000GB
 storage:
         gdata:
